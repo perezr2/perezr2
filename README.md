@@ -34,9 +34,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## 📚 Certifications (in progress)
-<div>
+<a href="www.google.com">
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?logo=comptia&style=for-the-badge" />
-</div>
+</a>
 
 
 
